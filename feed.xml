@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>💷51pounds - 英伦搞钱实录｜普通人也能在英国多赚一份收入</title>
+    <title>💷51pounds -英伦掘钱录</title>
     <link href="https://51pounds.pages.dev/feed.xml" rel="self" />
     <link href="https://51pounds.pages.dev" />
     <updated>2025-08-08T00:57:46+01:00</updated>
     <author>
-        <name>51poundsps</name>
+        <name>51pounds</name>
     </author>
     <id>https://51pounds.pages.dev</id>
 
     <entry>
         <title>🏠 政府补贴项目</title>
         <author>
-            <name>51poundsps</name>
+            <name>51pounds</name>
         </author>
         <link href="https://51pounds.pages.dev/zheng-fu-bu-tie-xiang-mu.html"/>
         <id>https://51pounds.pages.dev/zheng-fu-bu-tie-xiang-mu.html</id>
