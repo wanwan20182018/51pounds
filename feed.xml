@@ -3,24 +3,32 @@
     <title>英国本地通</title>
     <link href="https://51pounds.pages.dev/feed.xml" rel="self" />
     <link href="https://51pounds.pages.dev" />
-    <updated>2025-08-08T00:57:46+01:00</updated>
+    <updated>2025-09-19T13:44:36+01:00</updated>
     <author>
         <name>51pounds</name>
     </author>
     <id>https://51pounds.pages.dev</id>
 
     <entry>
-        <title>🏠 政府补贴项目</title>
+        <title>🏠 政府补贴项目 (copy)</title>
         <author>
             <name>51pounds</name>
         </author>
-        <link href="https://51pounds.pages.dev/zheng-fu-bu-tie-xiang-mu.html"/>
-        <id>https://51pounds.pages.dev/zheng-fu-bu-tie-xiang-mu.html</id>
+        <link href="https://51pounds.pages.dev/zheng-fu-bu-tie-xiang-mu-2.html"/>
+        <id>https://51pounds.pages.dev/zheng-fu-bu-tie-xiang-mu-2.html</id>
+            <category term="🚌英国省钱卡&amp;证件大全"/>
+            <category term="📚 免费培训与技能提升"/>
+            <category term="💷 英国福利指南"/>
+            <category term="🏠 英国政府补贴项目"/>
+            <category term="英国福利申请技巧与避坑指南"/>
+            <category term="老年人福利与生活支持"/>
+            <category term="学生与青年福利"/>
+            <category term="❤️ 医疗与健康支持"/>
 
-        <updated>2025-08-06T17:34:22+01:00</updated>
+        <updated>2025-09-15T17:01:35+01:00</updated>
             <summary>
                 <![CDATA[
-                    🏠 2025 年英国政府补贴项目全解析：你能申请哪些支持？ Meta 描述（SEO） 想知道 2025 年英国有哪些政府补贴可以申请？本指南覆盖住房补贴、能源补贴、创业资助等详细信息，附申请流程与常见问题解答，助你不错过任何福利机会。 在英国生活成本持续上涨的背景下，政府提供的各种补贴项目成为许多家庭和个人的重要支持来源。 不论你是租房、购房、创业，还是面临能源账单压力，2025 年的补贴政策都可能为你减轻经济负担。 一般来说，只要你的收入低于一定标准，且有租房支出，就有机会申请 Housing Benefit。但具体条件需参考你所在地区的市政规定。 不一定。像 Start Up Loans 通常是无抵押的个人贷款，但需要商业计划书和信用评估。 部分会自动发放，但大多数需要提前登记申请。 2025 年英国的政府补贴覆盖面广，既有日常生活类，也有创业发展类。 建议： 关键词建议（SEO）：英国政府补贴、英国住房补贴、能源补贴、创业资助、2025 英国福利政策、GOV.UK 补贴申请
+                    福利政策 - 华人生活信息 :root { --primary: #f56a6a; --bg: #fff; --text: #333; --muted: #777; } body { font-family: "Microsoft YaHei", sans-serif; margin: 0; background: #f9f9f9; color: var(--text); } .container { max-width: 1100px; margin: 0 auto; padding: 20px; } .breadcrumb { font-size: 14px; margin-bottom: 15px; } .breadcrumb&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -33,6 +41,125 @@
     </ul>
   </div>
   
+<div><!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>福利政策 - 华人生活信息</title>
+  <style>
+    :root {
+      --primary: #f56a6a;
+      --bg: #fff;
+      --text: #333;
+      --muted: #777;
+    }
+    body {
+      font-family: "Microsoft YaHei", sans-serif;
+      margin: 0;
+      background: #f9f9f9;
+      color: var(--text);
+    }
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    .breadcrumb {
+      font-size: 14px;
+      margin-bottom: 15px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb span {
+      margin: 0 6px;
+      color: var(--muted);
+    }
+    .description {
+      margin-bottom: 20px;
+      font-size: 15px;
+      color: var(--muted);
+    }
+
+    /* 当前分类按钮 */
+    .category-btn {
+      display: inline-block;
+      padding: 10px 24px;
+      border-radius: 20px;
+      background: var(--primary);
+      color: #fff;
+      font-weight: 600;
+      margin-bottom: 25px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    }
+
+    .articles {
+      display: grid;
+      gap: 16px;
+    }
+    .card {
+      background: var(--bg);
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+      display: flex;
+      align-items: center;
+      padding: 16px;
+      border-left: 6px solid var(--primary);
+      cursor: pointer;
+      transition: background 0.2s ease;
+    }
+    .card:hover { background: #fdf2f2; }
+    .card:active { background: #fde0e0; }
+    .card-content { flex: 1; }
+    .card-title { font-size: 18px; margin: 0 0 8px; font-weight: bold; }
+    .card-excerpt { font-size: 14px; color: var(--muted); line-height: 1.6; }
+    @media (max-width: 600px) {
+      .card { flex-direction: column; align-items: flex-start; }
+      .card-title { font-size: 16px; }
+      .card-excerpt { font-size: 13px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <!-- 面包屑 -->
+    <div class="breadcrumb">
+      <a href="index.html">首页</a><span>/</span>福利政策
+    </div>
+
+    <!-- 当前分类按钮 -->
+    <div class="category-btn">福利政策</div>
+
+    <!-- 分类描述 -->
+    <div class="description">
+      本分类主要汇总最新福利政策、补贴信息及相关指南，帮助华人在生活中更好地享受政策红利。
+    </div>
+
+    <!-- 文章列表 -->
+    <div class="articles">
+      <div class="card" onclick="location.href='article1.html'">
+        <div class="card-content">
+          <h3 class="card-title">福利政策标题 1</h3>
+          <p class="card-excerpt">这里是福利政策类文章的摘要，简要说明文章的主要内容。</p>
+        </div>
+      </div>
+      <div class="card" onclick="location.href='article3.html'">
+        <div class="card-content">
+          <h3 class="card-title">福利政策标题 3</h3>
+          <p class="card-excerpt">另一篇福利政策类文章的摘要信息展示。</p>
+        </div>
+      </div>
+      <!-- 可继续添加更多文章 -->
+    </div>
+
+  </div>
+</body>
+</html>
+
+</div>
 <div><article>
   <h1>🏠 2025 年英国政府补贴项目全解析：你能申请哪些支持？</h1>
 
